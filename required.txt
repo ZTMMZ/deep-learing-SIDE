@@ -1,0 +1,9 @@
+pytorch
+dominate
+visdom
+
+numpy
+python-opencv2
+pillow
+pySide2
+python-openGL
